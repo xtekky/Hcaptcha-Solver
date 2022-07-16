@@ -1,6 +1,5 @@
 from datetime import date, datetime
 import math, sys, base64, urllib, hashlib, json, os, random, requests, shutil, time, threading, colorama
-from re import S
 from json import dumps
 from solver.main import Solver
 
