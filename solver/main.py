@@ -1,3 +1,5 @@
+#This can be improved a lot lol, the conditions could be based on confidence etc...
+
 import base64
 import requests
 
