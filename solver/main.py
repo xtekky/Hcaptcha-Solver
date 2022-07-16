@@ -1,4 +1,4 @@
-#This can be improved a lot lol, the conditions could be based on confidence etc...
+#This can be improved a lot lol, the conditions could be based on confidence etc..., make a PR if u want or train ur own AI
 
 import base64
 import requests
